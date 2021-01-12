@@ -600,7 +600,7 @@ function mouseClicked(){
 
         //help button
         if(buttonClicked == 'help'){
-          window.open("https://www.youtube.com/user/QwertyAEB", "_blank")
+          window.open("https://www.youtube.com/watch?v=uouXYSwUP8E", "_blank")
         }
 
         if(buttonClicked == 'shopLink'){
